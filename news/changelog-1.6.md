@@ -38,6 +38,7 @@ All changes included in 1.6:
 - ([#10761](https://github.com/quarto-dev/quarto-cli/issues/10761)): Add support for `licence: CC0` to automatically link to Creative Commons licence [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/).
 - ([#10817](https://github.com/quarto-dev/quarto-cli/issues/10817)): Ensure that user provided SCSS has precedent over quarto generated scss also for dark theme.
 - ([#11124](https://github.com/quarto-dev/quarto-cli/pull/11124)): Use stable order of GLightbox options
+- ([]()): Use SVG version of ORCID iD icon instead of PNG
 
 ## `revealjs` Format
 
@@ -64,6 +65,7 @@ All changes included in 1.6:
 - ([#11146](https://github.com/quarto-dev/quarto-cli/issues/11146)): Fix issue with slide created with `---` and having no title showing up in TOC. Now they don't show up as slide created with empty header e.g. `## `.
 - ([#7142](https://github.com/quarto-dev/quarto-cli/issues/7142)): Fix issue in slides with `incremental: true` not working as expected when `code-annotation: hover` or `code-annotation: select`.
 - ([#9803](https://github.com/quarto-dev/quarto-cli/issues/9803)): Using url for `logo` to an online svg is now working correctly with `embed-resources: true`.
+- ([]()): Use SVG version of ORCID iD icon instead of PNG
 
 ## `typst` Format
 
@@ -123,6 +125,7 @@ All changes included in 1.6:
 ### `jupyter`
 
 - ([#9134](https://github.com/quarto-dev/quarto-cli/issues/9134)): Add proper fix for `multiprocessing` in notebooks with the Python kernel.
+- ([]()): Use SVG version of ORCID iD icon instead of PNG
 
 ## Chromium support
 
